@@ -1,0 +1,30 @@
+{
+  "name": "selectcompdemo",
+  "version": "1.0.0",
+  "description": "A demo of SelectComp",
+  "main": "src/app.js",
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "repository": "git+https://github.com/deandevl/SelectComp.git",
+  "keywords": [
+    "Vue.js",
+    "SelectComp"
+  ],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/SelectComp/issues"
+  },
+  "homepage": "https://github.com/deandevl/SelectComp#readme",
+  "dependencies": {
+    "selectcomp": "git+https://github.com/deandevl/SelectComp.git",
+    "vue": "^2.5.9"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.0",
+    "less": "^3.9.0",
+    "parcel-bundler": "^1.12.3",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
