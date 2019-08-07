@@ -1,0 +1,20 @@
+{
+  "name": "selectcomp",
+  "version": "1.0.0",
+  "description": "A Vue.js (>= 2.5) component similar to an HTML select tag that integrates a placeholder along with a collapsing panel of options",
+  "main": "SelectComp.vue",
+  "repository": "git+https://github.com/deandevl/SelectComp.git",
+  "keywords": [
+    "Vue.js",
+    "SelectComp"
+  ],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/SelectComp/issues"
+  },
+  "homepage": "https://github.com/deandevl/SelectComp#readme",
+  "dependencies": {
+    "vue": "^2.5.9"
+  }
+}
